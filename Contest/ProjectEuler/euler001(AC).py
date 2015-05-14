@@ -1,3 +1,4 @@
+#https://www.hackerrank.com/contests/projecteuler/challenges/euler001
 import re
 
 def count_sum(n, k):

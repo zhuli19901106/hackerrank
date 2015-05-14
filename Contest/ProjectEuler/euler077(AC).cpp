@@ -1,3 +1,4 @@
+//https://www.hackerrank.com/contests/projecteuler/challenges/euler077
 #include <cstdio>
 #include <cstring>
 #include <vector>
